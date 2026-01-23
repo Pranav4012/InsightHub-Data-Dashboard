@@ -8,4 +8,10 @@
          3> Relationship between StudyHours vs FinalScore
          4> By the graph we analyze that the graph tends to upwards      
          5> Concluded that Attendance and PracticeTime have a strong influence on student performance
+## DAY 3 :-
+         1> Creates CareerReady based on FinalScore
+         2> Separates features and targets
+         3> Feature matrix shape
+         4> How many students are 0 vs 1
+
     
