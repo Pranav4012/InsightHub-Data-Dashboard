@@ -13,5 +13,12 @@
          2> Separates features and targets
          3> Feature matrix shape
          4> How many students are 0 vs 1
+## DAY 4 :- 
+         1> Built a regression model to predict student final scores
+         2> Built a classification model to determine career readiness
+         3> Used train-test split for honest evaluation
+         4> Evaluated regression using MSE and classification using Accuracy
+         5> Successfully created an end-to-end ML pipeline
+
 
     
