@@ -19,6 +19,11 @@
          3> Used train-test split for honest evaluation
          4> Evaluated regression using MSE and classification using Accuracy
          5> Successfully created an end-to-end ML pipeline
+## DAY 5 :-
+         1> extracted model coefficients
+         2> mapped each feature to its influence
+         3> identified which factors improve or reduce performance
+         4> learned that ML models can be interpreted, not just used as black boxes         
 
 
     
