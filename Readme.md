@@ -24,6 +24,12 @@
          2> mapped each feature to its influence
          3> identified which factors improve or reduce performance
          4> learned that ML models can be interpreted, not just used as black boxes         
-
+## DAY 6 :-
+         1> Trained a Linear Regression model to predict `FinalScore`
+         2> Tested the model on unseen student data
+         3> Compared: 
+             .Actual FinalScore  
+             .Predicted FinalScore 
+         4> Calculated the **error** for each student:    
 
     
