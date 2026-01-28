@@ -30,6 +30,12 @@
          3> Compared: 
              .Actual FinalScore  
              .Predicted FinalScore 
-         4> Calculated the **error** for each student:    
+         4> Calculated the **error** for each student
+## DAY 7 :-
+         1> Designing the prediction logic for the app
+         2> Creating a reusable function for inference
+         3> Separating “model training” from “user prediction”
+         4> Why this step is essential before building the dashboard 
+
 
     
