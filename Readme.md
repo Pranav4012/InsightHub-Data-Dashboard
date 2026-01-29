@@ -36,6 +36,16 @@
          2> Creating a reusable function for inference
          3> Separating “model training” from “user prediction”
          4> Why this step is essential before building the dashboard 
-
+## DAY 8 :-
+         1> Created a Streamlit app.py
+         2> Loaded and trained:
+            - Linear Regression model (FinalScore prediction)
+            - Logistic Regression model (CareerReady classification)
+         3>Built a UI that lets users:
+             - Enter Study Hours
+             - Attendance
+             - Internal Marks
+             - Practice Time
+             - Backlogs
 
     
