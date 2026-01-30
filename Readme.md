@@ -47,5 +47,9 @@
              - Internal Marks
              - Practice Time
              - Backlogs
-
+## DAY 9 :-
+         1> Improving UI and clarity
+         2> Making the dashboard user-friendly
+         3> Shifting focus from “working” to “presentable”
+         4> Learning to think like a product builder
     

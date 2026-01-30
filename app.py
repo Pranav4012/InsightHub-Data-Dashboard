@@ -42,6 +42,8 @@ def predict_student(study_hours, attendance, internal_marks, practice_time, back
     return predicted_score, status
 
 st.title("Welcome To Dashboard !")
+st.header("Student Information Input")
+st.write("The student dashboard provides a quick overview of courses, assignments, progress, and important announcements in one place, helping students stay organized and on track.")
 
 study_hours = st.number_input("Enter study hour :",min_value=1, max_value=100, value=25)
 st.write(f"The study hour is {study_hours}")
@@ -69,6 +71,8 @@ if st.button("Predict"):
 
     st.success(f"Predicted Final Score: {round(score, 2)}")
     st.info(f"Career Status: {status}")
+
+
 
 
 
