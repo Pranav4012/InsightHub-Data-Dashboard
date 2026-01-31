@@ -52,4 +52,11 @@
          2> Making the dashboard user-friendly
          3> Shifting focus from “working” to “presentable”
          4> Learning to think like a product builder
-    
+## DAY 10 :- 
+         1> Dashboard Analytics & Visual Insights
+         2> Dataset overview with:
+            (a)Total rows and columns
+            (b)Interactive data preview
+         3> Integrated visual analytics directly into the dashboard:
+            (a) Attendance vs Final Score
+            (b) Practice Time vs Final Score   

@@ -72,6 +72,24 @@ if st.button("Predict"):
     st.success(f"Predicted Final Score: {round(score, 2)}")
     st.info(f"Career Status: {status}")
 
+st.header("Data Overview ")
+col1 , col2 = st.columns(2)
+col1.metric("Rows", df.shape[0])
+col2.metric("Columns",df.shape[1])
+
+#data preview 
+st.subheader("Preview")
+st.dataframe(df.head())
+#As attendance increases, how scores behave , Clean, readable, zero extra code
+st.subheader("Attendance vs Final Score")
+st.line_chart(
+    df.sort_values("Attendance")[["Attendance", "FinalScore"]].set_index("Attendance"))
+#More practice generally leads to better performance
+st.subheader("Practice Time vs Final Score")
+st.line_chart(
+    df.sort_values("PracticeTime")[["PracticeTime", "FinalScore"]].set_index("PracticeTime"))
+
+
 
 
 
